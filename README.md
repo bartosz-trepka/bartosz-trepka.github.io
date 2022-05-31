@@ -1,5 +1,7 @@
 # [**The Odin Project**](https://www.theodinproject.com/):
 
+***
+
 - ## **Foundations** (*completed*):
   - [Recipes](https://bartosz-trepka.github.io/odin-recipes/)
   - [Landing Page](https://bartosz-trepka.github.io/odin-landing-page/) ⭐
@@ -8,3 +10,7 @@
   - [Calculator](https://bartosz-trepka.github.io/odin-calculator/) ⭐
 - ## **Full Stack Javascript** (*in progress*):
   - *Next Projects: Sign-up Form, Admin Dashboard, ...*
+
+***
+
+Sites: [Github](https://github.com/bartosz-trepka) | [LinkedIn](www.linkedin.com/in/bartosz-trepka)
