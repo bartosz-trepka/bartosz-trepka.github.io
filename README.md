@@ -13,4 +13,4 @@
 
 ***
 
-Sites: [Github](https://github.com/bartosz-trepka) | [LinkedIn](www.linkedin.com/in/bartosz-trepka)
+Sites: [Github](https://github.com/bartosz-trepka) / [LinkedIn](www.linkedin.com/in/bartosz-trepka)
